@@ -55,8 +55,15 @@ div img {
     vertical-align: top;
 }
 
-.link {
-    margin: 20px 0;
+@media screen and (max-width: 600px) {
+    .web img {
+        width: 240px;
+    }
+}
+
+link {
+    margin: 30px;
+    padding: 10px;
 }
 
 footer {
