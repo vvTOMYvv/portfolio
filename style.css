@@ -58,13 +58,8 @@ div img {
 @media screen and (max-width: 600px) {
     .web img {
         width: 240px;
-        height: 115.5px;
+        height: 132px;
     }
-}
-
-link {
-    margin: 30px;
-    padding: 10px;
 }
 
 footer {
