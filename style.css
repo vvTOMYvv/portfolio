@@ -56,8 +56,12 @@ div img {
     padding: 0 30px;
 }
 
+.graphic {
+    border: solid 2px black;
+}
+
 @media screen and (max-width: 800px) {
-    .web img {
+    .small img {
         width: 320px;
         height: 176px;
     }
