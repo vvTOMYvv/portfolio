@@ -55,10 +55,10 @@ div img {
     vertical-align: top;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .web img {
-        width: 240px;
-        height: 132px;
+        width: 320px;
+        height: 176px;
     }
 }
 
