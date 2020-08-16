@@ -52,6 +52,39 @@ div img {
     margin: 30px auto;
 }
 
+/* #popup {
+    display:none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+@media screen and (min-width: 800px) {
+    label {
+        display:block;
+    }
+    input[type="checkbox"]:checked ~ #popup {
+        display:block;
+        transition: all 0.5s;
+    }
+
+    input[type="checkbox"]:checked ~ .back {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        transition: all 0.5s;
+        background: rgba(0, 0, 0, 0.500) !important;
+    }
+}
+
+input[type="checkbox"] {
+    display:none;
+} */
+
 .UI {
     padding: 0 30px;
 }
