@@ -48,7 +48,8 @@ div {
 
 @media screen and (max-width: 800px) {
     .small img {
-        width: 300px;
+        width: 320px;
+        height: 176px;
     }
 }
 
